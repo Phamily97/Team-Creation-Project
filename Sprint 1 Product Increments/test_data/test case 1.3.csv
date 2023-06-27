@@ -1,0 +1,46 @@
+ID,Your student ID,Your workshop class,If you prefer to be in a team with particular students list their student IDs separated by commas (max. 6 student IDs):,What project option do you prefer?,What technologies/languages would you prefer to use in project?,Timezone in which the team should preferably work,Preferred week days for team work?,Preferred day/night times for team-work
+1,s9871238,WRK05,s708358;s2024156;s8798545;s3256118,Web-app;Desktop app;iOS app;Android app,Java;Python,UTC-5,Monday;Tuesday;Wednesday;Thursday;Friday;,1pm - 10pm
+2,s901496,WRK01/02/03/04/05,s2862724;s2404367,Desktop app;iOS app;Android app,Java;Python;sql;C,UTC+11,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+3,s8814883,WRK01/02/03/04,s6087117;s5183473,Web-app,Java;Python;sql;C;C++,UTC+10,Monday;Tuesday;Wednesday;Thursday;Friday;,10am - 12pm
+4,s8798545,WRK05,s6153713;s7103503;s708358;s124657,Web-app;Desktop app;iOS app;Android app,Java;Python,UTC-5,Monday;Tuesday;Wednesday;Thursday;Friday;,1pm - 10pm
+5,s8568555,WRK01/02,s12345676;s6375414,Web-app,Java;Python;sql;C,Not important to me,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 4pm-9pm;
+6,s8051990,WRK03/04/05,s3392738;s6776252;s124657,Desktop app;iOS app;Android app,Java;Python;sql;C,UTC+7,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+7,s7894303,WRK03/04/05,s8051990;s5183473,Desktop app;iOS app;Android app,C;C++,UTC-5,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+8,s7224712,WRK02/03/04/05,NONE,iOS app;Android app,Java;Python;sql;C;Perl,UTC+0,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+9,s7103503,WRK04/05,NONE,iOS app;Android app,Java;Python;sql;C,UTC+1,Monday;Tuesday;Wednesday;Thursday;Friday;,morning 9am - 12pm
+10,s708358,WRK05,s6413164;s2057214,iOS app;Android app,Java;Python;sql;C,UTC+1,Monday;Tuesday;Wednesday;Thursday;Friday;,4pm - 6pm
+11,s6824523,WRK03/04/05,s2024156,Desktop app;iOS app;Android app,Java;Python;sql;C,UTC+2,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+12,s6782273,WRK03/04,NONE,Desktop app;iOS app;Android app,Java;Python;sql;C,UTC-7,Monday;Tuesday;Wednesday;Thursday;Friday;,5pm - 7pm
+13,s6778984,WRK01/02/03/04/05,NONE,Desktop app;iOS app;Android app,Java;Python;sql;C,UTC+11,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+14,s6776252,WRK03/04,s6413164,Desktop app;iOS app;Android app,Java,UTC+3,Monday;Tuesday;Wednesday;Thursday;Friday;,5pm - 10pm
+15,s6413164,WRK05,NONE,Web-app;Desktop app;iOS app;Android app,Java;Python,UTC-5,Monday;Tuesday;Wednesday;Thursday;Friday;,1pm - 10pm
+16,s6375414,WRK01/02/03,s4548782;s2665191,Desktop app;iOS app;Android app,Java;Python;sql;C,Not important to me,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+17,s6153713,WRK04,s5183473;s7894303;s498754,Desktop app,Java;Python;sql;C;JavaScript,UTC+8,Monday;Tuesday;Wednesday;Thursday;Friday;,afternoon 2pm - 5pm
+18,s6087117,WRK05,s2024156;s8798545;s3256118,iOS app;Android app,Java;Python;sql;C;Rust,UTC+6,Monday;Tuesday;Wednesday;Thursday;Friday;,5pm - 10pm
+19,s5183473,WRK03/04,s6782273,Desktop app;iOS app;Android app,Java;Python;sql;C++,UTC+3,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+20,s498754,WRK04/05,s6087117,iOS app;Android app,Java;Python;C,UTC+4,Monday;Tuesday;Wednesday;Thursday;Friday;,5pm - 10pm
+21,s467116,WRK03/04/05,s467116,Desktop app;iOS app;Android app,Java;Python;sql;C,UTC+2,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+22,s45676564,WRK03/04,s124657,Desktop app;iOS app;Android app,Java;Python;sql;C++,UTC+3,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+23,s4548782,WRK01/02/03/04,s1602133;s1602133,Web-app,Java;Python;sql;C;C++,UTC+10,Monday;Tuesday;Wednesday;Thursday;Friday;,10am - 12pm
+24,s4497812,WRK03/04/05,s6782273;s2862724,Desktop app;iOS app;Android app,C;C++,UTC-5,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+25,s4354669,WRK04,s7103503;s708358;s124657,iOS app;Android app,Python;sql;C,UTC+2,Monday;Tuesday;Wednesday;Thursday;Friday;,5pm - 10pm
+26,s3546345,WRK03/04,s498754,Desktop app;iOS app;Android app,Java;Python;sql;C,UTC-7,Monday;Tuesday;Wednesday;Thursday;Friday;,5pm - 7pm
+27,s3392738,WRK04/05,s4354669;s1602133,Desktop app;iOS app;Android app,C;C#,UTC+9,Monday;Tuesday;Wednesday;Thursday;Friday;,10am - 12pm
+28,s3333333,WRK01/02/03,s6778984;s8814883,Desktop app;iOS app;Android app,Java;Python;sql;C,Not important to me,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+29,s3256118,WRK05,s8798545;s6087117,Desktop app,Java;Python;sql;Dart,UTC+7,Monday;Tuesday;Wednesday;Thursday;Friday;,afternoon 1pm - 5pm
+30,s312851,WRK02/03,s4548782;s1424730,iOS app;Android app,Python,UTC+7,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+31,s2862724,WRK03,s6776252,Web-app,Java;Python;sql;C,UTC+5,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+32,s2679533,WRK04/05,s6153713,Desktop app,Java;sql;C,UTC+8,Monday;Tuesday;Wednesday;Thursday;Friday;,5pm - 10pm
+33,s2665191,WRK02/03/04/05,NONE,iOS app;Android app,JavaScript;Python;sql;C,UTC-6,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+34,s2460166,WRK02/,s2862724;s2665191,iOS app;Android app,Java;Python;sql;C,UTC+8,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+35,s2429059,WRK01/02/03,s1111111;s3333333;s901496,Web-app,Java,Not important to me,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+36,s2404367,WRK05,s708358;s8798545,Web-app;Desktop app;iOS app;Android app,Java;Python,UTC-5,Monday;Tuesday;Wednesday;Thursday;Friday;,5pm - 10pm
+37,s2222222,WRK01/02/03,s467116;s312851,Desktop app;iOS app;Android app,Java,Not important to me,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+38,s2057214,WRK03/04/05,s5183473;s7894303,Desktop app;iOS app;Android app,Java;Python;sql;C,UTC+7,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+39,s2024156,WRK03/04,s3546345,Desktop app;iOS app;Android app,Java,UTC+3,Monday;Tuesday;Wednesday;Thursday;Friday;,5pm - 10pm
+40,s1602133,WRK04,s708358;s6153713,Web-app;Desktop app;iOS app;Android app,Java;Python;sql;C,UTC+6,Monday;Tuesday;Wednesday;Thursday;Friday;,5pm - 10pm
+41,s1424730,WRK02/03/04/05,s7224712;s498754,iOS app;Android app,Java;Python;sql;C++,UTC+1,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+42,s124657,WRK03,NONE,Web-app,Java;Python;sql;C,UTC+5,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 5pm-9pm;
+43,s1234567,WRK01/02,"s8568555,s2429059,s901496",Web-app,Java;Python,Not important to me,Monday;Tuesday;Wednesday;Thursday;Friday;,5pm - 10pm
+44,s123456,WRK01/02,s1111111;s6375414,Web-app,Java;Python,Not important to me,Monday;Tuesday;Wednesday;Thursday;Friday;,5pm - 10pm
+45,s1111111,WRK01/02,s4548782;s3333333;s6375414,Web-app,Java;Python;sql;C,Not important to me,Monday;Tuesday;Wednesday;Thursday;Friday;,late evenings 9pm-12pm;evenings 4pm-9pm;

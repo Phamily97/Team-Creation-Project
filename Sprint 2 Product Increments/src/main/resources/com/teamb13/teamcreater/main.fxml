@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="725.0" prefWidth="1124.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.teamb13.teamcreater.controller.MainController">
+   <children>
+      <Button fx:id="uploadBtn" layoutX="892.0" layoutY="633.0" mnemonicParsing="false" onAction="#onUploadBtnClicked" text="Upload File">
+         <font>
+            <Font size="16.0" />
+         </font></Button>
+      <Button fx:id="createTeamBtn" disable="true" layoutX="750.0" layoutY="633.0" mnemonicParsing="false" onAction="#onCreateTeamBtnClicked" text="Create Teams">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Button>
+      <TextArea fx:id="displayArea" editable="false" layoutX="28.0" layoutY="25.0" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="564.0" prefWidth="1066.0" text="No Teams be created.">
+         <font>
+            <Font name="Arial" size="15.0" />
+         </font>
+      </TextArea>
+   </children>
+</Pane>
